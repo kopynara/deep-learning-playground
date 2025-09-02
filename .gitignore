@@ -1,3 +1,25 @@
+# Virtual env
 v_dl/
+venv/
+env/
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (선택적으로 무시)
+*.csv
+*.json
+*.db
+*.xlsx
